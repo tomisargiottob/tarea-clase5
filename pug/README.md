@@ -1,11 +1,9 @@
-# Plantilla de express
+# PUG
 ## Descripción
 
-Esta plantilla de express incluye la iniciacion de un servidor con las configuraciones de eslint y el editor para trabajar de acuerdo con mis estandares
+Proyecto creado mediante el uso de express y pug
 
-## Requisitos
-- Node
-- npm
+## Despliegue
 
-## Instalación
-**Clonar** el repositorio y **npm install**
+** npm install ** y luego ** npm run debug **
+
